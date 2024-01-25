@@ -36,3 +36,35 @@ The risks mentioned above are categorised according to the types of vulnerabilit
 </p>
 
 ## How to Calculate ?
+
+Quantifying risk factors with exact numerical values proves challenging due to the subjective nature of judgments and the potential variability influenced by specific contexts and organizational factors. Nevertheless, a simplified illustration can be offered through the utilization of a qualitative risk matrix, wherein likelihood and impact are categorized into low, medium, and high ratings. 
+
+Let's consider the example of data privacy in a healthcare AI application:
+
+**Data Privacy and Protection:**
+
+**Likelihood:**
+
+Low: Data is well-encrypted, and access controls are robust.
+Medium: Some vulnerabilities in data encryption and access controls.
+High: Weak encryption and lax access controls.
+
+**Impact:**
+
+* Low: Limited patient data exposure.
+* Medium: Exposure of some sensitive patient information.
+* High: Wide-scale exposure of sensitive patient information.
+
+**Risk Calculation:**
+
+* Low Likelihood + Low Impact = Low Risk
+* Medium Likelihood + Medium Impact = Medium Risk
+* High Likelihood + High Impact = High Risk
+
+This risk assessment can be visualized using a risk matrix:
+
+<p align="center">
+	<a href="https://github.com/Joseph-TUI/Threat-modeling-within-Generative-AI-Systems/blob/main/README.md">
+		<img align="center" alt="Threat modeling-Security Practices" src="/Pic/main.JPG" height="175">
+	</a>
+</p>
