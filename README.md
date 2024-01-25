@@ -12,7 +12,7 @@ We have designed a Threat Modeling template specifically tailored for Generative
 <p align="center">
 	<a href="">Technical documentation</a> |
 	<a href="https://github.com/Joseph-TUI/Threat-modeling-within-Generative-AI-Systems/tree/main/Reports">Microsoft Threat Modeling Tool- Report</a> |
-	<a href="https://github.com/Joseph-TUI/Threat-modeling-within-Generative-AI-Systems/tree/main/templates">Threat modeling templates</a> |
+	<a href="https://github.com/Joseph-TUI/Threat-modeling-within-Generative-AI-Systems/tree/main/templates">Threat modeling Templates</a> |
 	<a href="">STRIDE Approach towards Generative AI </a>|
 	<a href="">Proposals for a Secure Approach</a> |
 </a>

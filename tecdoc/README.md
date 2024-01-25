@@ -1,18 +1,22 @@
 <p align="center">
 	<a href="https://github.com/Joseph-TUI/Threat-modeling-within-Generative-AI-Systems/blob/main/README.md">
-		<img align="center" alt="Threat modeling-Security Practices" src="/Pic/main.JPG" height="200">
+		<img align="center" alt="Threat modeling-Security Practices" src="/Pic/main.JPG" height="175">
 	</a>
 </p>
 
 # Overview
 
-We have designed a Threat Modeling template specifically tailored for Generative AI Systems. Developers and architects can readily apply this template to their application structures. The repository is established in accordance with the research paper titled "Developing a practical approach to threat modeling within Generative AI Systems," present at the International Conference on Advanced Computing, Communication, and Electrical Systems (ICACCES) in 2024.	 
+Using a variety of test AI-generated chatbot applications, the three main assaults that were discovered are.	
+
+•	Adversarial Attacks: Attackers can craft input data in a way that subtly perturbs the input while remaining imperceptible to humans but causes the model to generate incorrect or harmful results.
+•	Model Tampering: This could involve modifying model parameters, weights, or architecture to induce biases, generate inappropriate content, or compromise the integrity of the generated outputs.
+•	Output Manipulation: Attackers may seek to manipulate the generated content post-production, either to inject malicious content or to deceive users relying on the authenticity of the generated output. 
+
+Impact of the STRIDE model on three widely recognized chatbots, examining potential attacks.
 
 
 <p align="center">
-	<a href="">Technical documentation</a> |
-	<a href="">Threat modeling templates</a> |
-	<a href="">STRIDE Approach towards Generative AI </a>|
-	<a href="">Proposals for a Secure Approach</a> |
-</a>
+	<a href="https://github.com/Joseph-TUI/Threat-modeling-within-Generative-AI-Systems/blob/main/README.md">
+		<img align="center" alt="Threat modeling-Security Practices" src="/Pic/Figure-1.JPG" height="200">
+	</a>
 </p>
