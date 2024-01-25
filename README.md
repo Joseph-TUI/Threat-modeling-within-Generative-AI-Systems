@@ -19,10 +19,10 @@ We have designed a Threat Modeling template specifically tailored for Generative
 </p>
 
 ## HowTo
-1. [Downlaod](https://aka.ms/threatmodelingtool) the Microsoft Threat Modeling tool
-2. Use [Template](https://github.com/Joseph-TUI/Threat-modeling-within-Generative-AI-Systems/blob/main/templates/Microsoft%20Threat%20Modeling-AI-Systems.tm7) in the Microsoft Threat Modeling tool.
+1. [Downlaod](https://aka.ms/threatmodelingtool) the Microsoft Threat Modeling tool.
+2. [Downlaod](https://github.com/Joseph-TUI/Threat-modeling-within-Generative-AI-Systems/blob/main/templates/Microsoft%20Threat%20Modeling-AI-Systems.tm7) Template in the Microsoft Threat Modeling tool.
 3. Modify the template according to your requirements.
-4. Generate Microsoft Threat Modeling tool- Report
+4. Generate Microsoft Threat Modeling tool- Report.
 
 #### Contributors
 * Joseph Thachil George - TUI Group
