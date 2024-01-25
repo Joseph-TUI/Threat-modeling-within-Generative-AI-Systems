@@ -7,7 +7,7 @@
 
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=Joseph-TUI&label=Profile%20views&color=0e75b6&style=flat" alt="" /> 
-<!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
+<!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="" /> -->
 <!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
 </p>
 
@@ -39,7 +39,7 @@
 We have designed a Threat Modeling template specifically tailored for Generative AI Systems. Developers and architects can readily apply this template to their application structures. The repository is established in accordance with the research paper titled "Developing a practical approach to threat modeling within Generative AI Systems," present at the International Conference on Advanced Computing, Communication, and Electrical Systems (ICACCES) in 2024.	 
 
 
-<p align="center">
+<p align="left">
 	<a href="https://github.com/Joseph-TUI/Threat-modeling-within-Generative-AI-Systems/tree/main/tecdoc">Technical documentation</a> |
 	<a href="https://github.com/Joseph-TUI/Threat-modeling-within-Generative-AI-Systems/tree/main/Reports">Microsoft Threat Modeling Tool- Report</a> |
 	<a href="https://github.com/Joseph-TUI/Threat-modeling-within-Generative-AI-Systems/tree/main/templates">Threat modeling Templates</a> |
