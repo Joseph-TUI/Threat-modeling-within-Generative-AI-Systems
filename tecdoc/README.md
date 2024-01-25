@@ -65,6 +65,35 @@ This risk assessment can be visualized using a risk matrix:
 
 <p align="center">
 	<a href="https://github.com/Joseph-TUI/Threat-modeling-within-Generative-AI-Systems/tree/main/tecdoc">
-		<img align="center" alt="Threat modeling-Security Practices" src="/Pic/Risk.JPG" height="150">
+		<img align="center" alt="Threat modeling-Security Practices" src="/Pic/Risk.JPG" height="100">
 	</a>
 </p>
+
+The matrix values can undergo additional refinement by considering the organization's risk tolerance and the particulars of the implemented security controls.
+
+It is crucial to emphasize that the presented example is a simplification. In a practical setting, a thorough risk assessment would necessitate an in-depth examination of each risk factor, encompassing potential controls, mitigations, and the organization's overall risk appetite. Some organizations might opt for quantitative risk assessment methods, facilitating a more detailed and numeric analysis of likelihood and impact for a comprehensive understanding of risks.
+
+Lets use the Formula R=P×Q×I, represents the Risk (R) as the product of Probability (P), Impact (I), and a factor representing the control effectiveness or Quality (Q). Let's use this formula in the context of data privacy in a healthcare AI application, considering a simplified scale of 1 to 3 for each factor.
+
+In this scenario, we'll explore how an adversary might manipulate the output of a facial recognition AI model to achieve unauthorized access. The risk calculation will involve assessing the likelihood and impact of such an attack.
+
+**Attack Scenario: Output Manipulation in Facial Recognition System**
+
+**Likelihood (P):**
+
+* Low: The system has robust anti-spoofing mechanisms, and the likelihood of successful manipulation is minimal.
+* Medium: Some anti-spoofing measures are in place, but there are known vulnerabilities.
+* High: Weak anti-spoofing measures, and it's relatively easy for an adversary to manipulate the system's output.
+
+**Impact (I):**
+
+* Low: Successful manipulation results in temporary access to a non-sensitive area.
+* Medium: Unauthorized access to a moderately sensitive area.
+* High: Full unauthorized access to highly sensitive information or areas.
+
+**Quality/Control Effectiveness (Q):**
+
+* Low: Limited or no real-time monitoring and response mechanisms in place.
+* Medium: Some monitoring, but response mechanisms are not well-tailored to detect and counteract output manipulation.
+* High: Advanced real-time monitoring and response mechanisms are in place to quickly detect and mitigate manipulation attempts.
+
