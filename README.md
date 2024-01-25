@@ -17,3 +17,7 @@ We have designed a Threat Modeling template specifically tailored for Generative
 	<a href="">Proposals for a Secure Approach</a> |
 </a>
 </p>
+
+**Contributors**
+* Joseph Thachil George - TUI Group
+* Elisabeth Seite- TUI Group
