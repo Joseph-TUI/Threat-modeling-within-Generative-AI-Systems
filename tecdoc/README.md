@@ -45,9 +45,9 @@ Let's consider the example of data privacy in a healthcare AI application:
 
 **Likelihood:**
 
-Low: Data is well-encrypted, and access controls are robust.
-Medium: Some vulnerabilities in data encryption and access controls.
-High: Weak encryption and lax access controls.
+* Low: Data is well-encrypted, and access controls are robust.
+* Medium: Some vulnerabilities in data encryption and access controls.
+* High: Weak encryption and lax access controls.
 
 **Impact:**
 
@@ -63,8 +63,9 @@ High: Weak encryption and lax access controls.
 
 This risk assessment can be visualized using a risk matrix:
 
-<p align="center">
-	<a href="https://github.com/Joseph-TUI/Threat-modeling-within-Generative-AI-Systems/blob/main/README.md">
-		<img align="center" alt="Threat modeling-Security Practices" src="/Pic/main.JPG" height="175">
-	</a>
-</p>
+
+         | Low Likelihood | Medium Likelihood | High Likelihood |
+---------|-----------------|-------------------|------------------|
+Low Impact   |       Low Risk       |       Medium Risk     |        High Risk      |
+Medium Impact|   Medium Risk   |       High Risk         |        High Risk      |
+High Impact   |       High Risk      |       High Risk        |        High Risk      |
