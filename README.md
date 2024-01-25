@@ -5,13 +5,6 @@
 </p>
 
 
-![Stars](https://img.shields.io/github/stars/Joseph-TUI/impressive-profile-readmes?color=gold&style=for-the-badge)
-![Issues](https://img.shields.io/github/issues/Joseph-TUI/impressive-profile-readmes?style=for-the-badge)
-![Contributors](https://img.shields.io/github/contributors/Joseph-TUI/impressive-profile-readmes?style=for-the-badge)
-![Pull requests](https://img.shields.io/github/issues-pr/Joseph-TUI/impressive-profile-readmes?style=for-the-badge)
-![Visitor](https://img.shields.io/badge/dynamic/json?label=Visitors&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Froypriyanshu02.impressive-profile-readmes%2Fbadge&style=for-the-badge)
-
-
 # Overview
 
 We have designed a Threat Modeling template specifically tailored for Generative AI Systems. Developers and architects can readily apply this template to their application structures. The repository is established in accordance with the research paper titled "Developing a practical approach to threat modeling within Generative AI Systems," present at the International Conference on Advanced Computing, Communication, and Electrical Systems (ICACCES) in 2024.	 
