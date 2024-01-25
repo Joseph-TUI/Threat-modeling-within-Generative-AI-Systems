@@ -36,7 +36,7 @@
 
 # Overview
 
-We have designed a Threat Modeling template specifically tailored for Generative AI Systems. Developers and architects can readily apply this template to their application structures. The repository is established in accordance with the research paper titled "Developing a practical approach to threat modeling within Generative AI Systems," present at the International Conference on Advanced Computing, Communication, and Electrical Systems (ICACCES) in 2024.	 
+We have designed a threat modeling template specifically tailored for Generative AI Systems. Developers and architects can readily apply this template to their application structures. The repository is established in accordance with the research paper titled "Developing a practical approach to threat modeling within Generative AI Systems," present at the International Conference on Advanced Computing, Communication, and Electrical Systems (ICACCES) in 2024.	 
 
 
 <p align="left">
