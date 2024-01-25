@@ -12,7 +12,7 @@ We have designed a Threat Modeling template specifically tailored for Generative
 <p align="center">
 	<a href="">Technical documentation</a> |
 	<a href="">Threat modeling templates</a> |
+	<a href="">STRIDE Approach towards Generative AI </a>|
 	<a href="">Proposals for a Secure Approach</a> |
-	<a href=""> STRIDE Approach towards Generative AI </a>|
 </a>
 </p>
