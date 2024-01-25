@@ -97,3 +97,16 @@ In this scenario, we'll explore how an adversary might manipulate the output of 
 * Medium: Some monitoring, but response mechanisms are not well-tailored to detect and counteract output manipulation.
 * High: Advanced real-time monitoring and response mechanisms are in place to quickly detect and mitigate manipulation attempts.
 
+<p align="center">
+	<a href="https://github.com/Joseph-TUI/Threat-modeling-within-Generative-AI-Systems/tree/main/tecdoc">
+		<img align="center" alt="Threat modeling-Security Practices" src="/Pic/Risk1.JPG" height="100">
+	</a>
+</p>
+
+In this instance:
+
+* The initial scenario portrays a situation of minimal risk, characterized by a low likelihood of successful manipulation and robust control effectiveness within the system.
+* The subsequent scenario suggests a moderate level of risk, featuring moderate likelihood and impact, along with an average level of control effectiveness.
+* The third scenario denotes a situation of elevated risk, arising from a confluence of high likelihood, substantial impact, and limited control effectiveness.
+
+Organizations can employ the findings of this risk assessment to prioritize security measures, allocate resources effectively, and implement countermeasures for mitigating the identified risks. Continuous reassessment of these risks is imperative, especially given the evolving threat landscape and the dynamic nature of both the AI system and its surrounding environment.
