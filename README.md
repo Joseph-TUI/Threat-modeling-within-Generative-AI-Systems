@@ -7,7 +7,6 @@
 
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=Joseph-TUI&label=Profile%20views&color=0e75b6&style=flat" alt="" /> 
-	![GitHub Repo stars](https://img.shields.io/github/stars/Joseph-TUI)
 <!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="" /> -->
 <!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/Joseph-TUI"> -->
 </p>
