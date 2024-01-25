@@ -18,3 +18,22 @@ In the procedure, the following standard STRIDE-based questions must be taken in
 |[Information Disclosure]| How to safeguard against inadvertent disclosure of proprietary information or vulnerabilities during the model training?.|How can we prevent unintended disclosure of proprietary or confidential information during the model training?.| Measures can be employed to restrict the disclosure of sensitive information within the generated output?. How can we safeguard against inadvertent disclosure of private or confidential details during the generation process?.|
 |[Denial of Service]| What strategies can be employed to ensure the continuity of the training process in the face of potential denial-of-service attacks?.|What measures can be implemented to ensure the continuity of the training process despite potential denial-of-service attacks?.| How resilient is the Generative AI model against attempts to disrupt the generation process and deny service? What strategies can be employed to ensure the continuity of the output generation process in the face of potential denial-of-service attacks?.|
 |[Elevation of Privilege]| Are there controls in place to thwart adversarial attempts to manipulate the model and escalate privileges? .|Are there controls in place to prevent unauthorized access that could lead to an elevation of privileges during the training process?.| Are there controls in place to thwart attempts to manipulate the model output and escalate privileges in a way that compromises privacy?.|
+
+
+# Proposals- Secure Approach
+
+1. In-depth exploration of the mechanics of Generative AI, including an analysis of training data, potential biases, and behavioral characteristics of the model [44].
+2. A detailed examination of security and privacy risks associated with the deployment of Generative AI, employing a comprehensive risk assessment methodology [45].
+3. Crafting policies that adhere to pertinent data protection laws and regulations, such as GDPR and HIPAA, to ensure legal compliance within the specific jurisdiction and industry context [46].
+4. Defining the data types used for training and operating Generative AI models and establishing governance practices to maintain data quality, integrity, and compliance [47].
+5. Investigating methods for transparent communication with users about data usage, obtaining explicit consent before utilizing their data for Generative AI applications [47].
+6. Deployment of sophisticated security measures encompassing encryption, access controls, and regular security audits to safeguard training data and AI models.
+7. Addressing potential biases in both training data and models, and implementing measures to identify and rectify bias, ensuring fairness in AI-generated outcomes[47].
+8. Advocating the principle of data minimization to limit the collection and storage of personal data to what is strictly necessary, reducing the impact of potential data breaches [47].
+9. Implementation of monitoring mechanisms to detect unauthorized or anomalous activities associated with Generative AI systems, coupled with regular audits to ensure policy compliance[48].
+10. Development of a comprehensive incident response plan specifically tailored for security and privacy incidents related to Generative AI, outlining clear steps for breach management[48].
+11. Establishment of ethical use guidelines to prevent misuse and unintended consequences of Generative AI, considering the broader social and ethical implications of AI-generated content[48].
+12. Implementation of training programs to educate employees on policies and best practices for working with Generative AI, fostering a culture of awareness and responsibility[49]..
+13. Periodic review and adaptation of policies to stay abreast of evolving technology, legal requirements, and organizational dynamics in the dynamic field of Generative AI [49].
+14. Collaboration with external experts, ethical AI organizations, or regulatory bodies to incorporate diverse perspectives and stay informed about emerging best practices and ethical considerations[50].
+15. Clear documentation of policies for easy accessibility to all stakeholders, including employees, users, and regulatory bodies, promoting transparency and accountability[50].
