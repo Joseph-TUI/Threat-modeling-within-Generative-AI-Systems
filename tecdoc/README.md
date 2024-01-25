@@ -99,7 +99,7 @@ In this scenario, we'll explore how an adversary might manipulate the output of 
 
 <p align="center">
 	<a href="https://github.com/Joseph-TUI/Threat-modeling-within-Generative-AI-Systems/tree/main/tecdoc">
-		<img align="center" alt="Threat modeling-Security Practices" src="/Pic/Risk1.JPG" height="100">
+		<img align="center" alt="Threat modeling-Security Practices" src="/Pic/Risk1.JPG" height="160">
 	</a>
 </p>
 
