@@ -5,10 +5,10 @@
 </p>
 
 
-![Stars](https://img.shields.io/github/stars/roypriyanshu02/impressive-profile-readmes?color=gold&style=for-the-badge)
-![Issues](https://img.shields.io/github/issues/roypriyanshu02/impressive-profile-readmes?style=for-the-badge)
-![Contributors](https://img.shields.io/github/contributors/roypriyanshu02/impressive-profile-readmes?style=for-the-badge)
-![Pull requests](https://img.shields.io/github/issues-pr/roypriyanshu02/impressive-profile-readmes?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/Joseph-TUI/impressive-profile-readmes?color=gold&style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/Joseph-TUI/impressive-profile-readmes?style=for-the-badge)
+![Contributors](https://img.shields.io/github/contributors/Joseph-TUI/impressive-profile-readmes?style=for-the-badge)
+![Pull requests](https://img.shields.io/github/issues-pr/Joseph-TUI/impressive-profile-readmes?style=for-the-badge)
 ![Visitor](https://img.shields.io/badge/dynamic/json?label=Visitors&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Froypriyanshu02.impressive-profile-readmes%2Fbadge&style=for-the-badge)
 
 
