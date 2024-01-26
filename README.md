@@ -6,6 +6,23 @@
 
 
 <p align="center">
+    <a href="https://github.com/Joseph-TUI/Threat-modeling-within-Generative-AI-Systems/commits/master">
+    <img src="https://img.shields.io/github/last-commit/Joseph-TUI/Threat-modeling-within-Generative-AI-Systems.svg?style=flat-square&logo=github&logoColor=white"
+         alt="GitHub last commit">
+    <a href="https://github.com/Joseph-TUI/Threat-modeling-within-Generative-AI-Systems/issues">
+    <img src="https://img.shields.io/github/issues-raw/Joseph-TUI/Threat-modeling-within-Generative-AI-Systems.svg?style=flat-square&logo=github&logoColor=white"
+         alt="GitHub issues">
+    <a href="https://github.com/Joseph-TUI/Threat-modeling-within-Generative-AI-Systems/pulls">
+    <img src="https://img.shields.io/github/issues-pr-raw/Joseph-TUI/Threat-modeling-within-Generative-AI-Systems.svg?style=flat-square&logo=github&logoColor=white"
+         alt="GitHub pull requests">
+    <a href="https://twitter.com/intent/tweet?text=Try this Counter-Strike 2 autoexec:&url=https%3A%2F%2Fgithub.com%2FArmynC%2FArminC-AutoExec">
+    <img src="https://img.shields.io/twitter/url/https/github.com/Joseph-TUI/Threat-modeling-within-Generative-AI-Systems.svg?style=flat-square&logo=twitter"
+         alt="GitHub tweet">
+</p>
+
+
+
+<p align="center">
 		[![Downloads][downloads-badge]][releases]
  <img src="https://komarev.com/ghpvc/?username=Joseph-TUI&label=Profile%20views&color=0e75b6&style=flat" alt="" /> 
 <!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="" /> -->
