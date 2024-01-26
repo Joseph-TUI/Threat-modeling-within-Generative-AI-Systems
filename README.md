@@ -16,7 +16,8 @@
     <img src="https://img.shields.io/github/issues-pr-raw/Joseph-TUI/Threat-modeling-within-Generative-AI-Systems.svg?style=flat-square&logo=github&logoColor=white"
          alt="GitHub pull requests">
     <a href="https://packagist.org/packages/Joseph-TUI/Threat-modeling-within-Generative-AI-Systems" target="_blank">
-        <img src="https://img.shields.io/packagist/dt/Joseph-TUI/Threat-modeling-within-Generative-AI-Systems.svg" alt="Packagist downloads">	    
+        <img src="https://img.shields.io/packagist/dt/Joseph-TUI/Threat-modeling-within-Generative-AI-Systems.svg" alt="Packagist downloads">
+	 </a>
 </p>
 
 
