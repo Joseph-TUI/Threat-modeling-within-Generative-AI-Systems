@@ -17,7 +17,7 @@
          alt="GitHub pull requests">
   </p>
 
-     [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Joseph-TUI_Threat-modeling-within-Generative-AI-Systems&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=Joseph-TUI_Threat-modeling-within-Generative-AI-Systems)
+ [    [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Joseph-TUI_Threat-modeling-within-Generative-AI-Systems&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=Joseph-TUI_Threat-modeling-within-Generative-AI-Systems)](https://sonarcloud.io/api/project_badges/measure?project=Joseph-TUI_Threat-modeling-within-Generative-AI-Systems&metric=security_rating)
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=Joseph-TUI&label=Profile%20views&color=0e75b6&style=flat" alt="" /> 
