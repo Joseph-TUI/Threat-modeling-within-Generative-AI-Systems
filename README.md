@@ -4,7 +4,7 @@
 	</a>
 
 <p align="center">
-    <a href="https://github.com/Joseph-TUI/Threat-modeling-within-Generative-AI-Systems/commits/master">
+	<a href="https://github.com/Joseph-TUI/Threat-modeling-within-Generative-AI-Systems/commits/master">
     <img src="https://img.shields.io/github/last-commit/Joseph-TUI/Threat-modeling-within-Generative-AI-Systems.svg?style=flat-square&logo=github&logoColor=white"
          alt="GitHub last commit">
     <a href="https://github.com/Joseph-TUI/Threat-modeling-within-Generative-AI-Systems/issues">
