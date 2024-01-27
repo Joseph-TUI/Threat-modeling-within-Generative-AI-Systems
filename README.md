@@ -42,8 +42,13 @@
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Joseph-TUI_Threat-modeling-within-Generative-AI-Systems&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Joseph-TUI_Threat-modeling-within-Generative-AI-Systems)
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Joseph-TUI_Threat-modeling-within-Generative-AI-Systems&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=Joseph-TUI_Threat-modeling-within-Generative-AI-Systems)
-
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Joseph-TUI_Threat-modeling-within-Generative-AI-Systems&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=Joseph-TUI_Threat-modeling-within-Generative-AI-Systems)
+[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=Joseph-TUI_Threat-modeling-within-Generative-AI-Systems&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=Joseph-TUI_Threat-modeling-within-Generative-AI-Systems)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=Joseph-TUI_Threat-modeling-within-Generative-AI-Systems&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=Joseph-TUI_Threat-modeling-within-Generative-AI-Systems)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=Joseph-TUI_Threat-modeling-within-Generative-AI-Systems&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=Joseph-TUI_Threat-modeling-within-Generative-AI-Systems)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=Joseph-TUI_Threat-modeling-within-Generative-AI-Systems&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=Joseph-TUI_Threat-modeling-within-Generative-AI-Systems)
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
