@@ -46,6 +46,8 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Joseph-TUI_Threat-modeling-within-Generative-AI-Systems&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Joseph-TUI_Threat-modeling-within-Generative-AI-Systems)
+
 # Overview
 
 We have designed a threat modeling template specifically tailored for Generative AI Systems. Developers and architects can readily apply this template to their application structures. The repository is established in accordance with the research paper titled "Developing a practical approach to threat modeling within Generative AI Systems," present at the International Conference on Advanced Computing, Communication, and Electrical Systems (ICACCES) in 2024.	 
