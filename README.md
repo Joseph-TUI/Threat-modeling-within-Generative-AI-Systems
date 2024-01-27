@@ -15,6 +15,8 @@
     <a href="https://github.com/Joseph-TUI/Threat-modeling-within-Generative-AI-Systems/pulls">
     <img src="https://img.shields.io/github/issues-pr-raw/Joseph-TUI/Threat-modeling-within-Generative-AI-Systems.svg?style=flat-square&logo=github&logoColor=white"
          alt="GitHub pull requests">
+	    [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Joseph-TUI_Threat-modeling-within-Generative-AI-Systems&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Joseph-TUI_Threat-modeling-within-Generative-AI-Systems)
+
   </p>
 
 <p align="center">
@@ -45,8 +47,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
-
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Joseph-TUI_Threat-modeling-within-Generative-AI-Systems&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Joseph-TUI_Threat-modeling-within-Generative-AI-Systems)
 
 # Overview
 
