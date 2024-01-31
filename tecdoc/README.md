@@ -147,7 +147,7 @@ Adversarial attack detectors encompass key concepts, including:
 
 2. **Statistical Analysis:** This involves scrutinizing the statistical properties of input data. Adversarial attacks often introduce statistical anomalies, detectable through various statistical tests or anomaly detection techniques. In some cases, this entails analyzing statistical properties specific to input from a particular user, enabling the detection of series of minor deviations in the input space, hinting at a potential attack.
 
-3.** Input Distortion Based Techniques (IDBT)**: Employing a function to modify input for eliminating adversarial data. The model is then applied to both the original input and the modified version, and the results are compared to identify potential attacks. 
+3. **Input Distortion Based Techniques (IDBT)**: Employing a function to modify input for eliminating adversarial data. The model is then applied to both the original input and the modified version, and the results are compared to identify potential attacks. 
 
 4. **Detection of Adversarial Patches:** These patches are localized, visible modifications that can be introduced, even in real-world scenarios.
 
