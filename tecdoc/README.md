@@ -153,15 +153,15 @@ Adversarial attack detectors encompass key concepts, including:
 
 ### Fix
 
- 1.**Adversarial Training:** Train the neural network with adversarial examples to enhance its robustness. By exposing the model to potential adversarial inputs during training, it learns to better recognize and resist such attacks.
+ 1. **Adversarial Training:** Train the neural network with adversarial examples to enhance its robustness. By exposing the model to potential adversarial inputs during training, it learns to better recognize and resist such attacks.
    
-2.**Ensemble Methods:** Utilize ensemble methods, combining predictions from multiple models. Adversarial inputs may produce inconsistent predictions across different models, making ensemble methods more resistant to such attacks.
+2. **Ensemble Methods:** Utilize ensemble methods, combining predictions from multiple models. Adversarial inputs may produce inconsistent predictions across different models, making ensemble methods more resistant to such attacks.
 
-3.**Activation Regularization**: Apply regularization techniques to the activations of different layers in the neural network. This helps prevent the network from overfitting to adversarial patterns and improves its ability to discern genuine input.
+3. **Activation Regularization**: Apply regularization techniques to the activations of different layers in the neural network. This helps prevent the network from overfitting to adversarial patterns and improves its ability to discern genuine input.
 
-4.**Statistical Anomaly Detection**: Implement statistical anomaly detection algorithms to identify irregularities in the statistical properties of input data. These algorithms can help identify patterns indicative of adversarial attacks.
+4. **Statistical Anomaly Detection**: Implement statistical anomaly detection algorithms to identify irregularities in the statistical properties of input data. These algorithms can help identify patterns indicative of adversarial attacks.
 
-5.**Input Preprocessing**: Apply preprocessing techniques to input data to remove potential adversarial perturbations. This can involve noise reduction, filtering, or other preprocessing steps to enhance the model's resilience.
-6.**Adversarial Patch Detection Algorithms**: Utilize specialized algorithms designed to detect adversarial patches. These algorithms can identify localized modifications in images, helping mitigate the impact of adversarial attacks.
+5. **Input Preprocessing**: Apply preprocessing techniques to input data to remove potential adversarial perturbations. This can involve noise reduction, filtering, or other preprocessing steps to enhance the model's resilience.
+6. **Adversarial Patch Detection Algorithms**: Utilize specialized algorithms designed to detect adversarial patches. These algorithms can identify localized modifications in images, helping mitigate the impact of adversarial attacks.
    
-7.**User-Specific Anomaly Detection**: For statistical analysis, consider user-specific anomaly detection by monitoring and analyzing the statistical properties of input data from individual users. This can aid in detecting subtle deviations that may indicate adversarial attempts.
+7. **User-Specific Anomaly Detection**: For statistical analysis, consider user-specific anomaly detection by monitoring and analyzing the statistical properties of input data from individual users. This can aid in detecting subtle deviations that may indicate adversarial attempts.
