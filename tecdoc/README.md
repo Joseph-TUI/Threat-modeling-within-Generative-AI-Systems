@@ -165,3 +165,15 @@ Adversarial attack detectors encompass key concepts, including:
 6. **Adversarial Patch Detection Algorithms**: Utilize specialized algorithms designed to detect adversarial patches. These algorithms can identify localized modifications in images, helping mitigate the impact of adversarial attacks.
    
 7. **User-Specific Anomaly Detection**: For statistical analysis, consider user-specific anomaly detection by monitoring and analyzing the statistical properties of input data from individual users. This can aid in detecting subtle deviations that may indicate adversarial attempts.
+
+## Runtime and development phases
+
+During both the operational and developmental stages, AI systems face vulnerabilities that can compromise their integrity, confidentiality, and availability, leading to adverse effects on business performance and customer satisfaction. Figure below illustrates the potential challenges encountered at each step of the development cycle and highlights diverse attack surfaces that could exacerbate these concerns.
+
+<p align="center">
+	<a href="https://github.com/Joseph-TUI/Threat-modeling-within-Generative-AI-Systems/blob/main/README.md">
+		<img align="center" alt="Threat modeling-Security Practices" src="/Pic/Figure-10.JPG" height="510">
+	</a>
+</p>
+
+To mitigate these risks, developers should implement robust security measures, conduct thorough testing, employ proper input validation, and stay informed about emerging threats and vulnerabilities in AI systems. Regularly updating models, monitoring for anomalies, and adopting security best practices can contribute to maintaining the integrity, confidentiality, and availability of AI-based systems
