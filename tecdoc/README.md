@@ -172,7 +172,7 @@ During both the operational and developmental stages, AI systems face vulnerabil
 
 <p align="center">
 	<a href="https://github.com/Joseph-TUI/Threat-modeling-within-Generative-AI-Systems/blob/main/README.md">
-		<img align="center" alt="Threat modeling-Security Practices" src="/Pic/Figure-10.JPG" height="510">
+		<img align="center" alt="Threat modeling-Security Practices" src="/Pic/Figure-10.JPG" height="700">
 	</a>
 </p>
 
